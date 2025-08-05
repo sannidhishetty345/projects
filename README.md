@@ -1,0 +1,2 @@
+# projects
+Netlix_EDA
